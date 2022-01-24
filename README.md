@@ -1,5 +1,5 @@
 # VME-Visualization
-** VME-Visulization Visualize virtual metered energy from AHU VAV system
+** VME-Visulization virtual metered energy from AHU VAV system visualization tool
 
 **Energy estimated from AHU VAV system:**
  
