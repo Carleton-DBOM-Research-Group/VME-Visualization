@@ -9,7 +9,7 @@ https://github.com/Carleton-DBOM-Research-Group/VME-Visualization
        
        2) Heat extracted by AHU cooling coil
        
-       3) Heat gains from the AHU supply fan
+       3) Heat gains from AHU supply fan
        
        4) Head added by zone-level radiant heaters
        
