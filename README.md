@@ -36,7 +36,7 @@ https://github.com/Carleton-DBOM-Research-Group/VME-Visualization
     
   *file name format for the AHU serving the VAVs is "buildingname_ahu#.xlsx".*
       
-  example: buildingX_ahu1.xlsx
+  example: buildingXXX_ahu1.xlsx
   
   *time series data in each file must have identical start/stop dates*
   
